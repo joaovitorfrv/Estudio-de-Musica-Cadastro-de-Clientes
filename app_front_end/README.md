@@ -21,7 +21,7 @@ O arquivo `script.js` implementa as funcionalidades de CRUD (Create, Read, Updat
 
 ## Como Executar
 
-Para visualizar a interface corretamente, é necessário que o backend esteja em execução, conforme descrito no README.md principal do projeto.
+Para visualizar a interface corretamente, é necessário que o backend esteja em execução, conforme descrito no README.md na pasta https://github.com/joaovitorfrv/Engenharia-de-Software-MVP-Sprint-1/edit/main/app_back_end.
 
 ## Imagens
 
